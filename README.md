@@ -8,4 +8,4 @@
 - [ ] Fixing decimal many zeros
 - [ ] Fixing a non important error writed in console
 
-> love u guys please follow me on github and star this project ;)
+> # love u guys please follow me on github and star this project ;)
